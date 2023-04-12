@@ -220,10 +220,4 @@ https://github.com/ZettaiVR/CVR-Mods/releases/latest/download/MemoryCache.dll
 https://github.com/ZettaiVR/CVR-Mods/releases/latest/download/AdvancedSafetyPerfFix.dll     
 (Updated Feb 5)         
 
-###  FastNetIK
-> Uses burst jobs to write NetIK transforms, should improve performance in larger >20 user lobbies
-> [ReadMe/Source](https://github.com/ZettaiVR/CVR-Mods/#readme)
 
-*Settings will be in the Zettai category in MelonPerfs*      
-https://github.com/ZettaiVR/CVR-Mods/releases/latest/download/FastNetIK.dll    
-(Updated March 11)
