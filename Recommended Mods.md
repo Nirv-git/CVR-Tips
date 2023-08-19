@@ -42,7 +42,7 @@ https://api.cvrmg.com/v1/mods/download/101
 ### GestureLock
 For Quest, Vive, or any non-Index controllers
 >Locks GestureLeft & GestureRight on SteamVR binding. Does nothing on Knuckles controllers. Make sure to bind Controller Toggle Gestures in SteamVR.
->[ReadMe](https://github.com/NotAKidOnSteam/GestureLock/#readme)
+>[ReadMe](https://github.com/NotAKidOnSteam/NAK_CVR_Mods/tree/main/GestureLock#readme)
 
 https://api.cvrmg.com/v1/mods/download/93
 
@@ -92,7 +92,7 @@ https://api.cvrmg.com/v1/mods/download/62
 
 ### DesktopVRIK
 > Adds VRIK to Desktop avatars. No longer will you be a liveless sliding statue~! Adds the small feet stepping when looking around on Desktop. It is highly recommended to use AvatarMotionTweaker alongside this mod.
-> [ReadMe](https://github.com/notakidonsteam/desktopvrik#readme)
+> [ReadMe](https://github.com/NotAKidOnSteam/NAK_CVR_Mods/tree/main/DesktopVRIK#readme)
 
 https://api.cvrmg.com/v1/mods/download/117
 
