@@ -1,4 +1,3 @@
-
 ## What this is
 The intent of this list is to provide recommendations for mods that would be useful to many new users. The full mods list in [CVRMG Discord](https://discord.gg/dndGPM3bxu) or [CVRMelonAssistant](https://github.com/knah/CVRMelonAssistant/releases) has a lot of mods, which can be overwhelming to go through. 
 
@@ -40,20 +39,20 @@ For Index Knuckles controllers
 
 https://api.cvrmg.com/v1/mods/download/101
 
-### ~~GestureLock~~
-**Broken by game update r171**
+### GestureLock
 For Quest, Vive, or any non-Index controllers
 >Locks GestureLeft & GestureRight on SteamVR binding. Does nothing on Knuckles controllers. Make sure to bind Controller Toggle Gestures in SteamVR.
 >[ReadMe](https://github.com/NotAKidOnSteam/GestureLock/#readme)
 
 https://api.cvrmg.com/v1/mods/download/93
 
-### ~~GestureIndicator~~
+### GestureIndicator
 **Broken by game update r171**
 >If you ever used Index controllers, you may know how unreliable the finger tracking can be. This causes all kinds of awkward issues when you try to express yourself in front of someone without looking at a mirror. Gesture Indicator displays on the HUD which gestures you are currently doing. The text colors, transparency \u0026 positions can be customizable to your liking!
 >[ReadMe](https://github.com/ImTiara/CVRMods#gestureindicator)
  
- https://api.cvrmg.com/v1/mods/download/25
+~~https://api.cvrmg.com/v1/mods/download/25~~     
+**I have a fixed version here:** https://github.com/Nirv-git/CVRMods_ImTiara/releases/tag/gesture_v1.0.2
 
 ### NoHighlight
 I recommend setting it to fade instead of remove completely
@@ -61,19 +60,11 @@ I recommend setting it to fade instead of remove completely
 
 https://api.cvrmg.com/v1/mods/download/24
 
-### ~~CameraIndicator~~
-**Broken by game update r171**
+### CameraIndicator
 >A mod that gives you a indicator of where other players cameras are positioned!
 
 https://api.cvrmg.com/v1/mods/download/80
 
-
-### ~~PickupPushPull~~
-**Broken by game update r171**
->Allows you to push & pull pickups with Mouse, Gamepad,  VR. Can also optionally rotate props via keybind. Index users will need to manually bind the missing SteamVR binds.
->[ReadMe](https://github.com/NotAKidOnSteam/PickupPushPull/#pickuppushpull)
-
-https://api.cvrmg.com/v1/mods/download/91
 
 ### ImmersiveTouch
 >ImmersiveTouch provides a satisfying haptic feedback in your VR controllers when your hands interacts with objects (meshes). The vibrations are speed dependent which means stroking hairs/tails etc feels very nice.
@@ -88,22 +79,13 @@ https://api.cvrmg.com/v1/mods/download/4
 
 https://api.cvrmg.com/v1/mods/download/138
 
-### ~~Lag Free Screenshots~~
-**Broken by game update r171**
+### Lag Free Screenshots
 >Lag-free screenshots, autorotate and more
 >[ReadMe](https://github.com/dakyneko/DakyModsCVR#lag-free-screenshots)
 
 https://api.cvrmg.com/v1/mods/download/50
 
-### ~~MenuScalePatch~~
-**Broken by game update r171**
->Corrects Main Menu and Quick Menu position when avatar is being scaled. Optional setting to enable Independent Head Turn while in menus. Optional setting to force menus to always follow player.
->[ReadMe](https://github.com/NotAKidOnSteam/MenuScalePatch/#readme)
-
-https://api.cvrmg.com/v1/mods/download/95
-
-### ~~AvatarMotionTweaker~~
-**Broken by game update r171**
+### AvatarMotionTweaker
 >This mod adds features for AAS animator and avatar locomotion behaviour. Refer to [usage info](https://github.com/SDraw/ml_mods_cvr/tree/master/ml_amt#usage) for more details.
 
 https://api.cvrmg.com/v1/mods/download/62
@@ -123,28 +105,25 @@ Very useful for avatar creators. Though may cause lag if your avatar has MANY CC
 
 https://api.cvrmg.com/v1/mods/download/74
 
-### ~~Action Menu~~
-**Broken by game update r171**
+### Action Menu
+**Must setup SteamVR bindings:** 
+![https://media.discordapp.net/attachments/1001388951099150336/1136785816581058660/image.png](https://media.discordapp.net/attachments/1001388951099150336/1136785816581058660/image.png)
 >Radial menu to quickly control your avatar and game settings with just a few taps of your joystick. By default opens with long-press of the quick menu button. It's been designed with simplicity, customization and modding in mind
 >[ReadMe](https://github.com/dakyneko/DakyModsCVR/blob/master/ActionMenu/README.md)
 
-https://api.cvrmg.com/v1/mods/download/102
+https://api.cvrmg.com/v1/mods/download/102      
+Requires **VRBinding** https://api.cvrmg.com/v1/mods/download/174
+
+### ChatBox
+
+> Communicate with other people in the instance using Text and
+> **ChatBox**es!
+> See [ReadMe](https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/ChatBox)
+
+https://api.cvrmg.com/v1/mods/download/168
 
 
 # ------------- Improves built in game features -------------
-### ~~AASBufferFix~~
-**No longer needed after r171**
->Fixes two issues with the Avatar Advanced Settings buffers when loading remote avatars. In simple terms, it means 'fewer wardrobe malfunctions'. 
->Empty buffer (all 0/false) will no longer be applied on load.\nReceived AAS data is ignored until the wearer has loaded into the expected avatar. (The avatar will sit in its default state until the wearer has loaded and started syncing correct AAS) AAS will no longer be sent while switching avatar. Please view the GitHub [ReadMe](https://github.com/NotAKidOnSteam/AASBufferFix/#readme) for links to relevant feedback posts.
-
-https://api.cvrmg.com/v1/mods/download/126
-
-### ~~BetterLipsync~~ 
-**No longer needed after r171**
->Mod to replace the viseme controller with the oculus lipsync. It will apply to all avatars but just locally (so others without the mod will still see the CVR default visemes behaviour). It was implemented to do the heavy work in separated threads, so there shouldn't be a noticeable performance drop. Make sure to play with the configurations to get the best look for yourself, I've set the default settings to be my personal preference. Some people prefer more smoothing other people prefer less.
->Check [README.md](https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/BetterLipsync) for comparison videos and more info."
-
-https://api.cvrmg.com/v1/mods/download/112
 
 ### EyeMovementFix
 > Mod to attempt to fix some of the current issues with the eye movement. This will affect the local and remote players eye movement but only for the local client. As well as adding new features! 
@@ -170,7 +149,7 @@ This is a list of mods that noticeable and measurably improve performance in Chi
 These are published by CVRMG and are ready for general availability, you will likely not get any bugs by using them and I highly recommend installing all listed here.     
 
 ### BTKSANameplateMod
-**Have to test if this still helps post r171**
+**Have to test if this still helps post r171**     
 This fixes a noticeable CPU stutter caused by the default nameplate fade out calculations. 
 > BTK Standalone: Nameplate Mod is a small mod for ChilloutVR that
 > changes a bit of how the nameplate works! The main features of this
@@ -184,13 +163,6 @@ This fixes a noticeable CPU stutter caused by the default nameplate fade out cal
 >[ReadMe](https://github.com/ddakebono/BTKSANameplateFix#readme)
 https://api.cvrmg.com/v1/mods/download/116
 
-### ~~FuckMetrics~~
-**No longer needed after r171**
-> This mod limits UpdateMetrics & SendCoreUpdate while the menus are closed. This helps to alleviate hitching and performance issues, particularly with FPS drops while unmuted in online instances and VRIK tapping in place.
-> [ReadMe](https://github.com/NotAKidOnSteam/FuckMetrics/#readme)
-
-*You will notice some UI elements updating slightly slowly in the QM*       
-https://api.cvrmg.com/v1/mods/download/135     
 
 # Unpublished Mods
 **!! Use these at your own risk !!**      
@@ -198,40 +170,15 @@ These are not officially checked or approved by CVRMG although the mod authors a
 **>> If you experience bugs please try disabling these first <<**    
 *These mods will not auto update, you will have the check the linked Github for new versions.*     
 
-### ~~FixDbLoadLag~~ 
-**Broken by game update r171 (Unsure but flagging)**
-> Fix the lag spike when loading avatars with dynamic bone components on it.
->[ReadMe/Source](https://github.com/ZettaiVR/CVR-Mods/#readme)
+### MenuDisable
 
-*Settings will be in the Zettai category in MelonPerfs*      
-https://github.com/ZettaiVR/CVR-Mods/releases/latest/download/FixDbLoadLag.dll   
-(Updated Feb 27)         
+> Disable the update of the quick menu and the main menu when they are
+> not in view.
 
-### ~~MemoryCache~~
-**Broken by game update r171 (Unsure but flagging)**
-> Replace the way the game is handling downloading, loading, hashing,
-> decrypting, and caching avatars and props. Eliminates lagspikes on
-> load, makes avatar switching to avatars and spawning props that
-> already have been seen before almost instantaneous.
-> [ReadMe/Source](https://github.com/ZettaiVR/CVR-Mods/#readme)
+https://github.com/ZettaiVR/CVR-Mods/releases/latest/download/MenuDisable.dll
+(Updated Jul 31st)
 
-A great mod for larger instances, ie clubs, if you have the RAM to support it.       
-     
-*This can result in high RAM usage, if you experience users getting stuck loading, please try increasing the Load Timeout to a much higher number. If that doesn't work, turn on debugging in MelonPrefs and report a bug.*    
-*Settings will be in the Zettai category in MelonPerfs*     
-**------------ 'Enable Hologram' is true by default, disable it ------------**        
-**^^^^^^^^^ If you don't everyone will look weird ^^^^^^^^^**    
-https://github.com/ZettaiVR/CVR-Mods/releases/latest/download/MemoryCache.dll     
-(Updated March 11)       
- 
-###  ~~AdvancedSafetyPerfFix~~
-**Broken by game update r171 (Unsure but flagging)**
-> Fix a performance issue with Advanced Safety related to checking materials.
-> [ReadMe/Source](https://github.com/ZettaiVR/CVR-Mods/#readme)
 
-*Settings will be in the Zettai category in MelonPerfs*      
-https://github.com/ZettaiVR/CVR-Mods/releases/latest/download/AdvancedSafetyPerfFix.dll     
-(Updated Feb 5)         
 
 
 
