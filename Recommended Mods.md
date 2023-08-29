@@ -47,7 +47,7 @@ For Quest, Vive, or any non-Index controllers
 https://api.cvrmg.com/v1/mods/download/93
 
 ### GestureIndicator
-**Broken by game update r171**
+~~**Broken by game update r171**~~
 >If you ever used Index controllers, you may know how unreliable the finger tracking can be. This causes all kinds of awkward issues when you try to express yourself in front of someone without looking at a mirror. Gesture Indicator displays on the HUD which gestures you are currently doing. The text colors, transparency \u0026 positions can be customizable to your liking!
 >[ReadMe](https://github.com/ImTiara/CVRMods#gestureindicator)
  
