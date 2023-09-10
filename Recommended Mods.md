@@ -159,6 +159,7 @@ This fixes a noticeable CPU stutter caused by the default nameplate fade out cal
 > distance based scaling 
 > - Configurable close range fade, this replaces CVRs built in fade out with one that can be configured
 >[ReadMe](https://github.com/ddakebono/BTKSANameplateFix#readme)
+   
 https://api.cvrmg.com/v1/mods/download/116
 
 
