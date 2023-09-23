@@ -169,13 +169,13 @@ These are not officially checked or approved by CVRMG although the mod authors a
 **>> If you experience bugs please try disabling these first <<**    
 *These mods will not auto update, you will have the check the linked Github for new versions.*     
 
-### MenuDisable
+### ~~MenuDisable~~
+**DO NOT USE, will break the game in R172**    
+> ~~Disable the update of the quick menu and the main menu when they are~~
+> ~~not in view.~~
 
-> Disable the update of the quick menu and the main menu when they are
-> not in view.
-
-https://github.com/ZettaiVR/CVR-Mods/releases/latest/download/MenuDisable.dll
-(Updated Jul 31st)
+~~https://github.com/ZettaiVR/CVR-Mods/releases/latest/download/MenuDisable.dll
+(Updated Jul 31st)~~
 
 
 
