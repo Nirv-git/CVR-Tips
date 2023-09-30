@@ -120,6 +120,15 @@ Requires **VRBinding** https://api.cvrmg.com/v1/mods/download/174
 
 https://api.cvrmg.com/v1/mods/download/168
 
+### FuckMLA
+> A simple mod that does three basic things:
+> Destroys MOUSELOCKALPHA, the script that locks your mouse on startup.
+> Forces mouse to be initially unlocked when launching the game in VR.
+> Fixes mouse rotating player when cursor is unlocked.
+
+> See [ReadMe](https://github.com/NotAKidOnSteam/NAK_CVR_Mods/tree/main/FuckMLA/)
+
+https://api.cvrmg.com/v1/mods/download/176
 
 # ------------- Improves built in game features -------------
 
