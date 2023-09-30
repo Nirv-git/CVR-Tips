@@ -141,10 +141,10 @@ https://api.cvrmg.com/v1/mods/download/118
 # ------------- Fixes -------------
 
 
-### FuckToes
->Prevents VRIK from using toe bones in VR & optionally FBT. VRIK calculates weird center of mass when toes are mapped, so it is sometimes desired to unmap toes to prevent an avatars feet from resting far back. Please see the [README](https://github.com/NotAKidOnSteam/FuckToes/#readme) for relevant imagery detailing the problem.
+### ~~FuckToes~~
+~~>Prevents VRIK from using toe bones in VR & optionally FBT. VRIK calculates weird center of mass when toes are mapped, so it is sometimes desired to unmap toes to prevent an avatars feet from resting far back. Please see the [README](https://github.com/NotAKidOnSteam/FuckToes/#readme) for relevant imagery detailing the problem.~~
 
-https://api.cvrmg.com/v1/mods/download/129
+~~https://api.cvrmg.com/v1/mods/download/129~~
 
 
 
