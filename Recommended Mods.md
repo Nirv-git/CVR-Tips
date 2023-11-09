@@ -107,9 +107,9 @@ https://api.cvrmg.com/v1/mods/download/74
 **Must setup SteamVR bindings:** 
 ![https://media.discordapp.net/attachments/1001388951099150336/1136785816581058660/image.png](https://media.discordapp.net/attachments/1001388951099150336/1136785816581058660/image.png)
 >Radial menu to quickly control your avatar and game settings with just a few taps of your joystick. By default opens with long-press of the quick menu button. It's been designed with simplicity, customization and modding in mind
->[~~ReadMe~~](https://github.com/dakyneko/DakyModsCVR/blob/master/ActionMenu/README.md)
-
-https://api.cvrmg.com/v1/mods/download/102      
+>[ReadMe](https://github.com/dakyneko/DakyModsCVR/blob/master/ActionMenu/README.md)
+Dont use right now   
+~~https://api.cvrmg.com/v1/mods/download/102~~      
 Requires **VRBinding** https://api.cvrmg.com/v1/mods/download/174
 
 ### ChatBox
