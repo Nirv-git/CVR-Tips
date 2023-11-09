@@ -103,11 +103,11 @@ Very useful for avatar creators. Though may cause lag if your avatar has MANY CC
 
 https://api.cvrmg.com/v1/mods/download/74
 
-### Action Menu
+### ~~Action Menu~~
 **Must setup SteamVR bindings:** 
 ![https://media.discordapp.net/attachments/1001388951099150336/1136785816581058660/image.png](https://media.discordapp.net/attachments/1001388951099150336/1136785816581058660/image.png)
 >Radial menu to quickly control your avatar and game settings with just a few taps of your joystick. By default opens with long-press of the quick menu button. It's been designed with simplicity, customization and modding in mind
->[ReadMe](https://github.com/dakyneko/DakyModsCVR/blob/master/ActionMenu/README.md)
+>[~~ReadMe~~](https://github.com/dakyneko/DakyModsCVR/blob/master/ActionMenu/README.md)
 
 https://api.cvrmg.com/v1/mods/download/102      
 Requires **VRBinding** https://api.cvrmg.com/v1/mods/download/174
@@ -138,38 +138,9 @@ https://api.cvrmg.com/v1/mods/download/176
 
 https://api.cvrmg.com/v1/mods/download/118
 
-# ------------- Fixes -------------
-
-
-### ~~FuckToes~~
-~~>Prevents VRIK from using toe bones in VR & optionally FBT. VRIK calculates weird center of mass when toes are mapped, so it is sometimes desired to unmap toes to prevent an avatars feet from resting far back. Please see the [README](https://github.com/NotAKidOnSteam/FuckToes/#readme) for relevant imagery detailing the problem.~~
-
-~~https://api.cvrmg.com/v1/mods/download/129~~
 
 
 
-# -------- CVR Performance Mods --------
-
-This is a list of mods that noticeable and measurably improve performance in ChilloutVR
-
-## Published Mods
-These are published by CVRMG and are ready for general availability, you will likely not get any bugs by using them and I highly recommend installing all listed here.     
-
-### BTKSANameplateMod
-**Have to test if this still helps post r171**     
-This fixes a noticeable CPU stutter caused by the default nameplate fade out calculations. 
-> BTK Standalone: Nameplate Mod is a small mod for ChilloutVR that
-> changes a bit of how the nameplate works! The main features of this
-> mod are: 
-> - Hide nameplates on friends only 
-> - Toggle nameplate
-> visibility on a per user basis (In QuickMenu user select) 
-> - Nameplate
-> distance based scaling 
-> - Configurable close range fade, this replaces CVRs built in fade out with one that can be configured
->[ReadMe](https://github.com/ddakebono/BTKSANameplateFix#readme)
-   
-https://api.cvrmg.com/v1/mods/download/116
 
 
 # Unpublished Mods
@@ -177,14 +148,6 @@ https://api.cvrmg.com/v1/mods/download/116
 These are not officially checked or approved by CVRMG although the mod authors are trusted creators.    
 **>> If you experience bugs please try disabling these first <<**    
 *These mods will not auto update, you will have the check the linked Github for new versions.*     
-
-### ~~MenuDisable~~
-**DO NOT USE, will break the game in R172**    
-> ~~Disable the update of the quick menu and the main menu when they are~~
-> ~~not in view.~~
-
-~~https://github.com/ZettaiVR/CVR-Mods/releases/latest/download/MenuDisable.dll
-(Updated Jul 31st)~~
 
 
 
