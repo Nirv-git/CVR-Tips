@@ -32,6 +32,11 @@ https://api.cvrmg.com/v1/mods/download/19
 
 https://api.cvrmg.com/v1/mods/download/35
 
+### PortableMirrorMod
+> This mod allows the user to locally spawn mirrors for themselves in any world.
+
+https://api.cvrmg.com/v1/mods/download/70
+
 ### FreedomFingers
 For Index Knuckles controllers
 >This removes the annoying index controller toggle to switch between finger tracking and animation, replacing it with a gesture lock toggle. Where your fingers are tracked **all** the time but you can pick whether you want gestures or not. You can enable notifications in the melon config, to know whether the gestures are enabled or not.
@@ -58,11 +63,6 @@ I recommend setting it to fade instead of remove completely
 
 https://api.cvrmg.com/v1/mods/download/24
 
-### CameraIndicator
->A mod that gives you a indicator of where other players cameras are positioned!
-
-https://api.cvrmg.com/v1/mods/download/80
-
 
 ### ImmersiveTouch
 >ImmersiveTouch provides a satisfying haptic feedback in your VR controllers when your hands interacts with objects (meshes). The vibrations are speed dependent which means stroking hairs/tails etc feels very nice.
@@ -88,11 +88,6 @@ https://api.cvrmg.com/v1/mods/download/50
 
 https://api.cvrmg.com/v1/mods/download/62
 
-### DesktopVRIK
-> Adds VRIK to Desktop avatars. No longer will you be a liveless sliding statue~! Adds the small feet stepping when looking around on Desktop. It is highly recommended to use AvatarMotionTweaker alongside this mod.
-> [ReadMe](https://github.com/NotAKidOnSteam/NAK_CVR_Mods/tree/main/DesktopVRIK#readme)
-
-https://api.cvrmg.com/v1/mods/download/117
 
 ### CCK.Debugger
 Very useful for avatar creators. Though may cause lag if your avatar has MANY CCK components. (Never version that fixes that is coming soon)
@@ -103,13 +98,13 @@ Very useful for avatar creators. Though may cause lag if your avatar has MANY CC
 
 https://api.cvrmg.com/v1/mods/download/74
 
-### ~~Action Menu~~
+### Action Menu
 **Must setup SteamVR bindings:** 
 ![https://media.discordapp.net/attachments/1001388951099150336/1136785816581058660/image.png](https://media.discordapp.net/attachments/1001388951099150336/1136785816581058660/image.png)
 >Radial menu to quickly control your avatar and game settings with just a few taps of your joystick. By default opens with long-press of the quick menu button. It's been designed with simplicity, customization and modding in mind
 >[ReadMe](https://github.com/dakyneko/DakyModsCVR/blob/master/ActionMenu/README.md)
 Dont use right now   
-~~https://api.cvrmg.com/v1/mods/download/102~~      
+https://api.cvrmg.com/v1/mods/download/102      
 Requires **VRBinding** https://api.cvrmg.com/v1/mods/download/174
 
 ### ChatBox
@@ -119,24 +114,6 @@ Requires **VRBinding** https://api.cvrmg.com/v1/mods/download/174
 > See [ReadMe](https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/ChatBox)
 
 https://api.cvrmg.com/v1/mods/download/168
-
-### FuckMLA
-> A simple mod that does three basic things:
-> Destroys MOUSELOCKALPHA, the script that locks your mouse on startup.
-> Forces mouse to be initially unlocked when launching the game in VR.
-> Fixes mouse rotating player when cursor is unlocked.
-
-> See [ReadMe](https://github.com/NotAKidOnSteam/NAK_CVR_Mods/tree/main/FuckMLA/)
-
-https://api.cvrmg.com/v1/mods/download/176
-
-# ------------- Improves built in game features -------------
-
-### EyeMovementFix
-> Mod to attempt to fix some of the current issues with the eye movement. This will affect the local and remote players eye movement but only for the local client. As well as adding new features! 
-> **Enhancements** - The target system will prefer people that: Are closer both distance and from the view center, are currently talking, are not a mirror reflection, and are the local player (yourself) :) . Check [README.md](https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/EyeMovementFix "README.md") for more in-depth info including which issues were addressed.
-
-https://api.cvrmg.com/v1/mods/download/118
 
 
 
