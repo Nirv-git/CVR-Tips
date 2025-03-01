@@ -76,8 +76,9 @@ https://api.cvrmg.com/v1/mods/download/74
 ### Action Menu
 **Must setup SteamVR bindings:** 
 ![Image](https://github.com/user-attachments/assets/a69c34b9-4c70-4425-8b79-f6104e8fec01)
->Radial menu to quickly control your avatar and game settings with just a few taps of your joystick. By default opens with long-press of the quick menu button. It's been designed with simplicity, customization and modding in mind
->[ReadMe](https://github.com/dakyneko/DakyModsCVR/blob/master/ActionMenu/README.md)  
+> Radial menu to quickly control your avatar and game settings with just a few taps of your joystick. By default opens with long-press of the quick menu button. It's been designed with simplicity, customization and modding in mind
+> [ReadMe](https://github.com/dakyneko/DakyModsCVR/blob/master/ActionMenu/README.md)
+
 https://api.cvrmg.com/v1/mods/download/102      
 Requires you to install **VRBinding** https://api.cvrmg.com/v1/mods/download/174
 
