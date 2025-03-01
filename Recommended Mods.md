@@ -97,7 +97,7 @@ https://api.cvrmg.com/v1/mods/download/168
 > The Request Lib is a Mod that allows users to receive requests from other players in the same instance via the Mod Network.
 > This will enable mods to ask permission for things to players without both having a specific mod. For example if both players have the **RequestLib**, this will allow the `Player 1` with the **TeleportRequest** mod to request to teleport to `Player 2` even if the `Player 2` doesn't have the **TeleportRequest** mod.
 
-https://api.cvrmg.com/v1/mods/download/113
+https://api.cvrmg.com/v1/mods/download/169
 
 ### TeleportRequest
 
